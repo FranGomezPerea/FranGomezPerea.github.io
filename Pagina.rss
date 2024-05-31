@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+
+  <channel>
+    <title>Noticias Kimetsu No Yaiba</title>
+    <link>https://frangomezperea.github.io/Practica-RSS.github.io/</link>
+    <description>Todo lo que hay que saber de los cazademonios</description>
+    <category>Anime</category>
+    <language>es-ES</language>
+    <lastBuildDate>Fri, 23 Feb 2024 12:00:00 GMT</lastBuildDate>
+    <managingEditor>a23gopefr@iesgrancapitan.org(Francisco José Gómez Perea)</managingEditor>
+    <skipHours>
+      <hour>0</hour>
+      <hour>1</hour>
+      <hour>2</hour>
+      <hour>3</hour>
+      <hour>4</hour>
+      <hour>5</hour>
+    </skipHours>
+    <skipDays>
+      <day>Saturday</day>
+      <day>Sunday</day>
+    </skipDays>
+    <item>
+        <title>Yoriichi tsugikuni, el padre de las respiraciones</title>
+        <link>https://ficcion-sin-limites.fandom.com/es/wiki/Yoriichi_Tsugikuni</link>
+        <description>Yoriichi tsugikuni, nacido en la era Sengoku, fue un niño prodigio que nació con una marca de cazador en la cabeza, pero este fue destinado a ser sacerdote cuando creciera. Sin embargo, a la edad de 7 años, derrotó a un instructor espadachin con tan solo 4 golpes, convirtiendose asi en un miembro de la cofradia de cazademonios</description>
+        <author>a23gopefr@iesgrancapitan.org(Francisco José Gómez Perea)</author>
+        <pubDate>Fri, 23 Feb 2024 06:00:00 GMT</pubDate>
+    </item>
+    <item>
+        <title>Tanjiro Kamado, el espadachin elegido</title>
+        <link>https://kimetsu-no-yaiba.fandom.com/es/wiki/Respiracion_del_Sol</link>
+        <description>Tanjiro Kamado, nacido en la era Taisho, fue un vendedor de carbon que tiene una marca en la cabeza. Una noche que no pasó en c su hogar, fue atacada por el rey de los demonios, acabando con su familia y convirtiendo a su hermana menor en demonio. El objetivo de Tanjiro es derrotar al rey de los demonios y hacer que su hermana vuelva a ser humana. Posee la ventaja de poder usar la respiración solar, tal y como lo hizo yoriichi</description>
+        <author>a23gopefr@iesgrancapitan.org(Francisco José Gómez Perea)</author>
+        <pubDate>Fri, 23 Feb 2024 08:00:00 GMT</pubDate>
+    </item>
+     <item>
+        <title>Muzan, el rey de los demonios</title>
+        <link>https://kimetsu-no-yaiba.fandom.com/es/wiki/Muzan_Kibutsuji</link>
+        <description>Muzan Kibutsuji, nacido en la era Sengoku, fue una persona de cuerpo debil el cual moriria en poco tiempo. El doctor que le cuidaba lo trataba con medicinas, y Muzan, harto de que no funcionase, asesinó al doctor que lo trataba. En unos instantes, Muzan se hizo muy con un cuerpo muy fuerte y se convirtió en el demonio progenitor. El rasgo más destacado que posee Muzan es el narcisismo extremo, su megalomanía y una obsesión por convertirse en el ser perfecto poseedor de la inmortalidad. Para ello (ya que es vulnerable a la luz solar) se pasa sus años, buscando una flor la cual solo florece de dia, con la que podrá vencer al sol</description>
+        <author>a23gopefr@iesgrancapitan.org(Francisco José Gómez Perea)</author>
+        <pubDate>Fri, 23 Feb 2024 10:00:00 GMT</pubDate>
+    </item>
+     <item>
+        <title>La respiracion solar</title>
+        <link>https://kimetsu-no-yaiba.fandom.com/es/wiki/Respiracion_del_Sol</link>
+        <description>La respiracion solar es la primera y mas poderosa respiracion para asesinar demonios. Es la unica respiracion capaz de derrotar al rey demonio, causando una regeneracion mas lenta y quemaduras. Es la original teniendo sus copias baratas como la respiracion lunar, la respiracion del agua, la del fuego, la de la roca y derivadas mas</description>
+        <author>a23gopefr@iesgrancapitan.org(Francisco José Gómez Perea)</author>
+        <pubDate>Fri, 23 Feb 2024 12:00:00 GMT</pubDate>
+    </item>
+  </channel>
+</rss>
